@@ -1,0 +1,7 @@
+Measured time (seconds) and temperatures (degrees C) after adding metal, starting at highest temp (removed some earlier data points) 
+165	27.8
+180	27.6
+195	27.4
+210	27.2
+225	27.1
+240	27.1
