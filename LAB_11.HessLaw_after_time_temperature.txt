@@ -1,0 +1,6 @@
+Measured time (seconds) and temperatures (degrees C) after mixing, starting at highest temp
+5 37.6
+6 37.5
+7 37.4
+8 37.3
+9 37.2

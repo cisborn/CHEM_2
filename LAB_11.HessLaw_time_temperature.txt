@@ -1,0 +1,5 @@
+Measured time (minutes) and temperatures (degrees C) for warm and room temperature baths
+0 47.8 22.5
+1 47.6 22.4
+2 47.4 22.4
+3 47.2 22.5
